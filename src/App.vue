@@ -15,6 +15,7 @@
     import Vue from 'vue';
     import Component from 'vue-class-component';
     import { Header, Footer, Sider } from './components/Layout/index';
+    import { vieImg } from "@/utils/viewImg";
 
     @Component({
         components: {
@@ -26,6 +27,9 @@
     export default class App extends Vue {
         created(): void {
             this.tryLogin();
+        }
+        mounted (): void {
+            vieImg();
         }
         async tryLogin () {
             const accesstoken = window.localStorage.getItem('accesstoken');

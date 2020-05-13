@@ -1,5 +1,11 @@
 # vue-ts-cnode
-🚀 基于vue+typescript构建cnode社区
+🚀 基于vue+typescript构建的仿[CNode社区](https://cnodejs.org/)
+
+## 项目安装及启动
+```
+npm install
+npm run serve
+```
 
 ## API清单 x 15
 - [√] 主题首页

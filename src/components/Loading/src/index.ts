@@ -25,6 +25,8 @@ export default {
         });
     },
     close () {
-        instance.visible = false;
+        setTimeout(() => {
+            instance.visible = false;
+        }, 1000)
     }
 };

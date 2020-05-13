@@ -864,10 +864,13 @@ textarea#title {
 }
 
 .navbar .nav > li > a {
+  cursor: pointer;
   text-shadow: none;
   color: #cccccc;
+  &:active,
+  &:focus,
   &:hover {
-    color: #fff;
+    color: #009a61 !important;
   }
 }
 
@@ -1145,6 +1148,7 @@ textarea.editor {
 .topic-tab {
   margin: 0 10px;
   color: @node_green;
+  cursor: pointer;
   &.current-tab {
     background-color: @node_green;
     color: white;
