@@ -72,6 +72,7 @@
                 display: inline-block;
                 width: 8px;
                 height: 100%;
+                margin-left: 5px;
                 border-radius: 4px;
                 background: green;
                 animation: load 1s ease infinite;
