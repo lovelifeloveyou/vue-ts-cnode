@@ -69,7 +69,7 @@
                         <h4>get /topic_collect/:loginname 用户所收藏的主题</h4>
                         <p>示例：<a href="https://cnodejs.org/api/v1/topic_collect/alsotang" target="_blank" rel="noopener noreferrer">/api/v1/topic_collect/alsotang</a></p>
                         <h3>评论</h3>
-                        <h4>post /topic/:topic_id/replies 新建评论</h4>
+                        <h4>post /topic/:topic_id/reply 新建评论</h4>
                         <p>接收 post 参数</p>
                         <ul>
                             <li>accesstoken <code>String</code> 用户的 accessToken</li>

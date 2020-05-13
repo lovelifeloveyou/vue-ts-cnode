@@ -49,15 +49,15 @@
         <div class="panel">
             <div class="inner ads">
                 <a href="https://alinode.aliyun.com/?ref=cnode" target="_blank" rel="noopener noreferrer" class="banner sponsor_outlink" data-label="alinode">
-                    <img src="//dn-cnode.qbox.me/Fn4D6BhOTz1IswvmzeZ1q7QW1ls_" alt="" />
+                    <img src="https://imgkr.cn-bj.ufileos.com/19c54099-104e-49f0-a77b-4d3164a45c72.png" alt="" />
                 </a>
                 <div class="sep10"></div>
                 <a href="http://www.ucloud.cn/site/active/gift.html?utm_source=cnodejs&amp;utm_medium=content_pic_pc&amp;utm_campaign=multicloud&amp;utm_content=gift&amp;ytag=cnodejs" target="_blank" rel="noopener noreferrer" class="banner sponsor_outlink" data-label="ucloud-banner">
-                    <img src="//dn-cnode.qbox.me/FgQS-GQDfqwAD_v0NuhyYUOUk5MG" alt="" />
+                    <img src="https://imgkr.cn-bj.ufileos.com/94c41aa7-90a8-443b-b994-3b6a92056ab2.png" alt="" />
                 </a>
                 <div class="sep10"></div>
                 <a href="https://0x7.me/UDyj" class="banner sponsor_outlink" data-label="qiniu-sidebar" target="_blank" rel="noopener noreferrer">
-                    <img src="//dn-cnode.qbox.me/Fv9R31Y6ySKKJi95ldk9TRkJ7o5O" alt="" />
+                    <img src="https://imgkr.cn-bj.ufileos.com/4d2723a6-5982-4583-8500-56f61cc15674.png" alt="" />
                 </a>
             </div>
         </div>
@@ -68,8 +68,8 @@
             <div class="inner">
                 <ol class="friendship-community">
                     <li>
-                        <a href="https://ruby-china.org/" target="_blank" rel="noopener noreferrer">
-                            <img src="//static2.cnodejs.org/public/images/ruby-china-20150529.png" alt="" />
+                        <a href="http://react-china.org/" target="_blank" rel="noopener noreferrer">
+                            <img src="https://imgkr.cn-bj.ufileos.com/5df4e6c4-ec42-4001-9c83-bd9cb4461bc9.png" alt="React中文社区" />
                         </a>
                     </li>
                     <div class="sep10"></div>
@@ -78,7 +78,7 @@
                             <img src="//static2.cnodejs.org/public/images/golangtc-logo.png" alt="" />
                         </a>
                     </li>
-                    <div class="sep10"></div>
+                    <!-- <div class="sep10"></div>
                     <li>
                         <a href="http://phphub.org/" target="_blank" rel="noopener noreferrer">
                             <img src="//static2.cnodejs.org/public/images/phphub-logo.png" alt="" />
@@ -89,18 +89,18 @@
                         <a href="https://testerhome.com/" target="_blank" rel="noopener noreferrer">
                             <img src="//static.cnodejs.org/FjLUc7IJ2--DqS706etPQ1EGajxK" alt="" />
                         </a>
-                    </li>
+                    </li> -->
                 </ol>
             </div>
         </div>
         <div class="panel">
             <div class="header">
-                <span class="col_fade">客户端二维码</span>
+                <span class="col_fade">个人联系方式</span>
             </div>
             <div class="inner cnode-app-download">
-                <img width="200" src="//dn-cnode.qbox.me/FtG0YVgQ6iginiLpf9W4_ShjiLfU" alt="" />
+                <img width="290" src="https://imgkr.cn-bj.ufileos.com/216b06a3-e7b2-4961-98de-f555ad2b6499.jpg" alt="" />
                 <br />
-                <a href="https://github.com/soliury/noder-react-native" target="_blank" rel="noopener noreferrer">客户端源码地址</a>
+                <span style="font-size: 18px;font-weight: bold;">wechat: qjqdedream77</span>
             </div>
         </div>
     </div>
